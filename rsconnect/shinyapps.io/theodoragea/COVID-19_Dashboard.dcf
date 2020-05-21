@@ -1,0 +1,13 @@
+name: COVID-19_Dashboard
+title: COVID-19_Dashboard
+username:
+account: theodoragea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2335915
+bundleId: 3174531
+url: https://theodoragea.shinyapps.io/COVID-19_Dashboard/
+when: 1590061388.86771
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: License.txt|README.md|data/covid19_data.zip|data/time_series_covid19_confirmed_global.csv|data/time_series_covid19_deaths_global.csv|data/time_series_covid19_recovered_global.csv|www/Matana.png
